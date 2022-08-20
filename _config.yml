@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael James Smith"
 title_separator          : "-"
 name                     : &name "Michael James Smith"
-description              : &description "personal description"
+description              : &description "Michael James Smith"
 url                      : https://michaeljamessmith.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michaeljamessmith/michaeljamessmith.github.io/"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael James Smith"
-  avatar           : "PXL_20210129_023951351"
+  avatar           : "111330546.png"
   bio              : "PhD student. Works on international organisation hierarchy and performance -- Multilateral Development Banks and the IAEA."
   location         : "Griffith SGIR, Brisbane"
   employer         : 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Brisbane # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
