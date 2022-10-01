@@ -19,12 +19,12 @@ The International Atomic Energy Agency (IAEA or Agency) is the central feature o
   
 ###  
     
-Empirically illustrating and analysing the IAEA hierarchy via Factor Analysis of Mixed Data (FAMD) and Multiple Correspondence Analysis (MCA) methods, I demonstrate the utility of the former in better preserving not only rank-a state's position in the hierarchy, but also the relative distance between ranks. This, I suggest, is a significant advantage in the study of organisational hierarchies and offers improvement on existing approaches. In both cases, the resulting distributions indicate a strong, positive relationship between particular patterns of member state practice engagement and status at the Agency; three distinct familial clusters emerge corresponding with the Lower-Bottom, Middle-Upper, and Top tiers of the IAEA hierarchy. Finally, I note that while functional contributions disproportionately constitute hierarchy at the Agency, measures of engagement surpass the analytic resolution possible with traditional global measures of state status (GDP, military strength, and tourism). This result is in line with similar research concerning NATO and the UN. 
+Empirically illustrating and analysing the IAEA hierarchy via Factor Analysis of Mixed Data (FAMD) and Multiple Correspondence Analysis (MCA) methods, I demonstrate the utility of the former in better preserving not only rank-a state's position in the hierarchy, but also the relative distance between ranks. This, I suggest, is a significant advantage in the study of organisational hierarchies and offers improvement on existing approaches. In both cases, the resulting distributions indicate a strong, positive relationship between particular patterns of member state practice engagement and status at the Agency; three distinct familial clusters emerge corresponding with the Lower-Bottom, Middle-Upper, and Top tiers of the IAEA hierarchy. Finally, I note that while functional contributions disproportionately constitute hierarchy at the Agency, measures of engagement surpass the analytic resolution possible with traditional global measures of state status (GDP, military strength, and tourism). This result is in line with similar research concerning NATO and the UN. </br>
 ###  
   
-Beyond advancing existing understandings of member state hierarchies at the IAEA, these findings indicate the broader analytic utility of practice-conscious approaches to the study of international hierarchies and member state dynamics at international organisations.
+Beyond advancing existing understandings of member state hierarchies at the IAEA, these findings indicate the broader analytic utility of practice-conscious approaches to the study of international hierarchies and member state dynamics at international organisations. </br>
 ###  
 
 </div>
-![International Relations Stream #3, Monday September 26 2022](/images/APSA_2022_09_Talk_Image.png)
+![International Relations Stream #3, Monday September 26 2022](images/APSA_2022_09_Talk_Image.png)
 
