@@ -11,26 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. (Hons. 1st Class) in History, University of Western Australia, 2018
+* M.A. in International Relations, The University of Melbourne, 2021
+* Ongoing, Ph.D in Governance and International Relations, Griffith University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring - Summer 2022: Research Assistant
+  * School of Governance and International Relations, Griffith University
+  * Duties included: Interviews and newspaper coding for ARC in Comparative Cabinets: Dilemmas of Collective Government
+  * Supervisor: Professor Emeritus Patrick Weller
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter - Spring 2022: Research Assistant
+  * School of Governance and International Relations, Griffith University
+  * Duties included: Literature review on the topic of "Benevolent Authoritarianism" 
+  * Supervisor: Dr. Lee Morgenbesser
+
+* Winter 2015: Research Assistant
+  *  * Centre for Governance and Public Policy, Griffith University
+  * Duties included: Comparative publication and citation survey of Australian political science departments
+  * Supervisor: Maria Connor
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Statistical Analysis
+* R
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
@@ -56,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*
