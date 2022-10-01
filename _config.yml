@@ -83,12 +83,12 @@ author:
   name             : "Michael James Smith"
   avatar           : "111330546.png"
   bio              : "PhD student and research assistant. Expertise in international organisation hierarchy and performance – specifically at the IAEA and multilateral development banks."
-  location         : "Brisbane, Australia"
+  location         : # "Brisbane, Australia"
   employer         : "Griffith University"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com.au/"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
