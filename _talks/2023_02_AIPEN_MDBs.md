@@ -1,5 +1,5 @@
 ---
-title: "Member State Hierarchies at Multilateral Development Banks (MDBs)"
+title: "Member State Status at Multilateral Development Banks (MDBs)"
 collection: talks
 type: "Talk"
 permalink: /talks/2023_02_AIPEN_MDBs
@@ -7,8 +7,7 @@ venue: "Australian International Political Economy Network (AIPEN) 2023"
 date: 2023-02-09
 location: "The University of Melbourne, Melbourne"
 ---
-
-## AIPEN Proposal Abstract: Member State Hierarchies at Multilateral Development Banks
+https://www.ppesydney.net/tags/aipen/
 
 Unlike other international organisations, multilateral development banks (MDBs) make no pretence to the equality of their member states. Positional dissatisfaction within this system emerges not from inequality, so the prevailing wisdom goes, but from inequity—a mismatch between a state’s de jure vote share and its broader economic capacity. In much of the literature, this inconsistency is cited as a contributing factor to emerging market and developing economies’ (EMDEs) discontent at established MDBs, and ultimately to the creation of EMDE favourable alternatives.
 
