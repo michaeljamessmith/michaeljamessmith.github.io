@@ -17,17 +17,17 @@ Education
 
 Work experience
 ======
-* 2022 | Spring - Summer | Research Assistant
+* 2022 / Spring - Summer / Research Assistant
   * School of Governance and International Relations, Griffith University
-  * Duties included: Interviews and newspaper coding for ARC in Comparative Cabinets: Dilemmas of Collective Government
+  * Duties included: Interviews and newspaper coding for ARC - Comparative Cabinets: Dilemmas of collective government
   * Supervisor: Professor Emeritus Patrick Weller
 ###  
-* 2022 | Winter - Spring | Research Assistant
+* 2022 / Winter - Spring / Research Assistant
   * School of Governance and International Relations, Griffith University
-  * Duties included: Literature review on the topic of "Benevolent Authoritarianism" 
+  * Duties included: Literature survey and review for project on "Benevolent Authoritarianism" 
   * Supervisor: Dr. Lee Morgenbesser
 ###  
-* 2022 | Winter | Research Assistant
+* 2022 / Winter / Research Assistant
   * Centre for Governance and Public Policy, Griffith University
   * Duties included: Comparative publication and citation survey of Australian political science departments
   * Supervisor: Maria Connor
