@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.A. (w/ first class honours) in History, University of Western Australia, 2018
+* B.A. (Hons. 1st Class) in History, University of Western Australia, 2018
 * M.A. in International Relations, The University of Melbourne, 2021
 * Ph.D in Governance and International Relations, Griffith University, 2025 (expected)
 
