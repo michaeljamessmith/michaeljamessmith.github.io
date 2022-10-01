@@ -25,6 +25,7 @@ Empirically illustrating and analysing the IAEA hierarchy via Factor Analysis of
 Beyond advancing existing understandings of member state hierarchies at the IAEA, these findings indicate the broader analytic utility of practice-conscious approaches to the study of international hierarchies and member state dynamics at international organisations.
 ###  
 
+</div>
 
 ![International Relations Stream #3, Monday September 26 2022](https://github.com/michaeljamessmith/michaeljamessmith.github.io/blob/d3823063aefc5fcab6a82f3e95163833ac47c959/images/APSA_2022_09_Talk_Image.png)
-</div>
+
