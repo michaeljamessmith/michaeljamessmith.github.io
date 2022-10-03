@@ -27,5 +27,5 @@ Beyond advancing existing understandings of member state hierarchies at the IAEA
 
 </div>
 
-![International Relations Stream #3, Monday September 26 2022](https://github.com/michaeljamessmith/michaeljamessmith.github.io/blob/d3823063aefc5fcab6a82f3e95163833ac47c959/images/APSA_2022_09_Talk_Image.png)
+![International Relations Stream #3, Monday September 26 2022](/images/APSA_2022_09_Talk_Image.png)
 
