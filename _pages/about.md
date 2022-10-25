@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD student and Research Assistant at Griffith University. Expertise in international organisation hierarchy and performance -- specifically at the IAEA and multilateral development banks.
+PhD student and Research Assistant at Griffith University. Expertise in international organisation hierarchy and performance specialising in multilateral development banks and the IAEA.
   
   
   
