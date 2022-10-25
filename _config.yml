@@ -14,7 +14,7 @@ description              : &description "Michael James Smith"
 url                      : https://michaeljamessmith.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "michaeljamessmith/michaeljamessmith.github.io/"
-teaser                   : /images/111330546.png # filename of teaser fallback teaser image placed in /images/, .e.g. 
+teaser                   : /images/Screenshot 2022-10-26 003821.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael James Smith"
-  avatar           : "111330546.png"
+  avatar           : "Screenshot 2022-10-26 003821.jpg"
   bio              : "PhD Candidate and Research Assistant. Expertise in international organisation hierarchy and performance – IAEA and the multilateral development banks."
   location         : # "Brisbane, Australia"
   employer         : "Griffith University"
