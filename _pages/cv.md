@@ -29,21 +29,21 @@ Work experience
     
 2022 / Winter - Spring / Research Assistant
   * School of Governance and International Relations, Griffith University
-  * Authored a systematic literature survey and review on the topic of benevolent authoritarianism as part of a project on comparative antidemocratic politics in Southeast and East Asia.
+    * Authored a systematic literature survey and review on the topic of benevolent authoritarianism as part of a project on comparative antidemocratic politics in Southeast and East Asia.
   * Supervisor: Dr. Lee Morgenbesser  
    
 2022 / Winter / Research Assistant
   * Centre for Governance and Public Policy, Griffith University
-  * Documented published contributions of Centre faculty and fellows and compared outputs across comparable Australian political science departments as part of the Centre’s three-year administrative review.
+    * Documented published contributions of Centre faculty and fellows and compared outputs across comparable Australian political science departments as part of the Centre’s three-year administrative review.
   * Supervisor: Maria Connor  
   
  2017 - 2021 / Site Supervisor
- * Perth Fringe Festival
- * Managed a team of 25 employees and volunteers across up to nine venues 
+ * Perth Fringe Festival  
+    * Managed a team of 25 employees and volunteers across up to nine venues 
  
  2018 - 2019 / Safety and Wellbeing Advisor
  * Office of the Pro Vice-Chancellor (Teaching and Learning), University of Melbourne
- * Authored written reports and briefings to the office of the PVC on student safety and wellbeing policies and outcomes regarding student-delivered orientation programs.
+   * Authored written reports and briefings to the office of the PVC on student safety and wellbeing policies and outcomes regarding student-delivered orientation programs.
 
 Skills
 ======
