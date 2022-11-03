@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+2022 - 2023 / Spring - Ongoing / Research Assistant  
+  * Centre for Governance and Public Policy, Griffith University  
+    * Provided research assistance related to an ongoing ARC Future Fellowship project on Australian political party youth wings.
+ * Supervisor: Professor Duncan McDonnell 
+ 
 2022 / Spring - Summer / Research Assistant  
   * School of Governance and International Relations, Griffith University  
     * Provided research assistance for an upcoming biography of Australia’s top civil servant. Focus on policy in practice and continuity and change in administrative decision-making processes in government and private organisations.  
@@ -42,13 +47,14 @@ Work experience
 
 Skills
 ======
-* Mixed Methods research designs
+* Mixed Methods research design
 * Academic and professional writing
 * Statistical Analysis
 * R
   * Tidyverse
   * ggplot2
-* Literature reviews 
+* Literature reviews
+* Systematic reviews 
 
 Talks
 ======
